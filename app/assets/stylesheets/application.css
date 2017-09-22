@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+
+p.hello {
+    background-color: lightgray;
+    font-size: 40px;
+}

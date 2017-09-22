@@ -13,3 +13,10 @@
 //= require rails-ujs
 //= require turbolinks
 //= require_tree .
+
+window.onload = function(){
+    var data = document.getElementById("test");
+    if (data) {
+        data.append("test");
+    }
+}
