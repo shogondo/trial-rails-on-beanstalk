@@ -17,6 +17,6 @@
 window.onload = function(){
     var data = document.getElementById("test");
     if (data) {
-        data.append("test 2");
+        data.append("test v3");
     }
 }
